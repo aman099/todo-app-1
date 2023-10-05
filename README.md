@@ -8,6 +8,8 @@ So, once you have forked, or git cloned my project in your local system, and the
 This will host the backend local database file onto the local port Server.
 Again, Note that this should be hosted strictly locally on "localhost:3000" server port, in case served in any other port other than 3000 will lead to 'fetch failed' error.
 
+After doing this, then get started with the React hosting part successfully.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
