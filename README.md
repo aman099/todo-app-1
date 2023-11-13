@@ -9,6 +9,8 @@ This will host the backend local database file onto the local port Server.
 Again, Note that this should be hosted strictly locally on "localhost:3000" server port, in case served in any other port other than 3000 will lead to 'fetch failed' error.
 
 After doing this, then get started with the React hosting part successfully.
+Prior running the React frontend on your browser/client install all the dependancies required for running this project by simply moving to the root directory folder of this project in your command terminal, and then running the command : "npm install" 
+This will successfully install/update all the dependancies/packages required for running this react-project on your browser/client.
 
 # Getting Started with Create React App
 
